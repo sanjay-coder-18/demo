@@ -1,3 +1,3 @@
 # demo
 this is my git repository
-author -sanjay
+author -sanjay (sanjay)
